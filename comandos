@@ -1,0 +1,5 @@
+#activar terminal
+#python medidas_encuestas.py
+
+#Activar streamlit
+#streamlit run app.py
