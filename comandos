@@ -1,5 +1,5 @@
 #activar terminal
-#python medidas_encuestas.py
+#python analisis_delicias.py
 
 #Activar streamlit
-#streamlit run app.py
+#streamlit run app_delicias.py
